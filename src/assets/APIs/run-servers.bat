@@ -1,0 +1,10 @@
+start npx json-server --watch fiatIncomeData.json --port 5000
+start npx json-server --watch cryptoIncomeData.json --port 5001
+start npx json-server --watch totalIncomeData.json --port 5002
+start npx json-server --watch fiatExpensesData.json --port 5003
+start npx json-server --watch cryptoExpensesData.json --port 5004
+start npx json-server --watch totalExpensesData.json --port 5005
+start npx json-server --watch fiatInvestmentsData.json --port 5006
+start npx json-server --watch cryptoInvestmentsData.json --port 5007
+start npx json-server --watch totalInvestmentsData.json --port 5008
+start npx json-server --watch smsData.json --port 5009

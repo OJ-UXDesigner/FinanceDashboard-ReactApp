@@ -1,0 +1,16 @@
+{
+    "incomeFiatDate":[
+        {
+            "amount": "$100,000",
+            "date": "19 March, 2024"
+        },
+        {
+            "amount": "$20,000",
+            "date": "08 March, 2024"
+        },
+        {
+            "amount": "$28,000",
+            "date": "04 March, 2024"
+        }
+    ]
+}

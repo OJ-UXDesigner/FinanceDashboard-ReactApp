@@ -1,0 +1,16 @@
+{
+    "expensesFiatDate":[
+        {
+            "amount": "$50,000",
+            "date": "15 March, 2024"
+        },
+        {
+            "amount": "$120,000",
+            "date": "10 March, 2024"
+        },
+        {
+            "amount": "$15,000",
+            "date": "05 March, 2024"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "expensesDate":[
+        {
+            "amount": "0.0003142 BTC",
+            "date": "15 March, 2024"
+        },
+        {
+            "amount": "$120,000",
+            "date": "10 March, 2024"
+        },
+        {
+            "amount": "0.000345 BTC",
+            "date": "05 March, 2024"
+        }
+    ]
+}

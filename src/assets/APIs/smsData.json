@@ -1,0 +1,42 @@
+{
+    "smsNotifications": [
+      {
+        "type": "Salary",
+        "date": "10 December, 2024",
+        "message": "Your salary of SAR 10,000 has been credited to your account ending in 5678. Available balance: SAR 12,345.67."
+      },
+      {
+        "type": "Stocks",
+        "date": "06 October, 2024",
+        "message": "Stock Alert: Your order to buy 100 shares of XYZ at SAR 50 each has been successfully executed."
+      },
+      {
+        "type": "Withdrawal",
+        "date": "21 August, 2024",
+        "message": "Alert: SAR 500 withdrawn from ATM. Remaining balance: SAR 9,500. If this was not you, report immediately."
+      },
+      {
+        "type": "Withdrawal",
+        "date": "06 July, 2024",
+        "message": "Withdrawal of SAR 2,000 at POS terminal XYZ Store has been processed. Available balance: SAR 7,800."
+      },
+      {
+        "type": "Salary",
+        "date": "17 May, 2024",
+        "message": "Salary Alert: SAR 8,500 has been successfully deposited to your account on 12-Dec-2024. Check your bank app for details."
+      },
+      {
+        "type": "Salary",
+        "date": "16 April, 2024",
+        "message": "Good news! Your monthly salary of SAR 15,000 has been transferred and is now available for use."
+      },
+      
+      
+      {
+        "type": "Stocks",
+        "date": "2024-12-05",
+        "message": "Portfolio Update: Your holding of ABC shares increased in value by 3.5% today. Total value: SAR 10,500."
+      }
+    ]
+  }
+  
